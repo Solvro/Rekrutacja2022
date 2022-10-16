@@ -18,6 +18,8 @@ Do uzyskania danych skorzystaj z otwartego API: https://punkapi.com/documentatio
 
 Nie narzucamy ilości danych które wyświetlą się na każdym z ekranów. Wykorzystaj ich tyle ile sobie życzysz :)
 
+Możesz skorzystać z dostępny już design systemów.
+
 Dokumentacja API jest do Twojej dyspozycji, także nie wahaj się eksperymentować z rozwiązaniami!
 
 ---
