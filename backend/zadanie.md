@@ -2,7 +2,7 @@
 
 **Termin wykonania zadania: 06.11 23:59**
 
-Zaprojektuj i wdroż server-side API koszyka internetowego.
+Zaprojektuj i napisz kod API koszyka internetowego.
 
 Aplikacje możesz stworzyć w JavaScriptcie, TypeScriptcie, Pythonie lub Go. Możesz użyć dowolnych frameworków czy bibliotek. 
 
