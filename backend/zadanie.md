@@ -6,8 +6,6 @@ Zaprojektuj i napisz kod API koszyka internetowego.
 
 Aplikacje możesz stworzyć w JavaScriptcie, TypeScriptcie, Pythonie lub Go. Możesz użyć dowolnych frameworków czy bibliotek. 
 
-Zadanie zrealizować możesz w: 
-
 ## Oczekiwane funkcjonalności:
 1. Dodawanie przedmiotu do koszyka
 2. Usuwanie przedmiotu z koszyka
